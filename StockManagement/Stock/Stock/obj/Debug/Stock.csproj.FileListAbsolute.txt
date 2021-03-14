@@ -1,0 +1,12 @@
+C:\Users\aalis\source\repos\Stock\Stock\Stock\bin\Debug\Stock.exe.config
+C:\Users\aalis\source\repos\Stock\Stock\Stock\bin\Debug\Stock.exe
+C:\Users\aalis\source\repos\Stock\Stock\Stock\bin\Debug\Stock.pdb
+C:\Users\aalis\source\repos\Stock\Stock\Stock\obj\Debug\Stock.csprojAssemblyReference.cache
+C:\Users\aalis\source\repos\Stock\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+C:\Users\aalis\source\repos\Stock\Stock\Stock\obj\Debug\Stock.StockMain.resources
+C:\Users\aalis\source\repos\Stock\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.cache
+C:\Users\aalis\source\repos\Stock\Stock\Stock\obj\Debug\Stock.csproj.CoreCompileInputs.cache
+C:\Users\aalis\source\repos\Stock\Stock\Stock\obj\Debug\Stock.exe
+C:\Users\aalis\source\repos\Stock\Stock\Stock\obj\Debug\Stock.pdb
+C:\Users\aalis\source\repos\Stock\Stock\Stock\obj\Debug\Stock.Login.resources
+C:\Users\aalis\source\repos\Stock\Stock\Stock\obj\Debug\Stock.Product.resources
